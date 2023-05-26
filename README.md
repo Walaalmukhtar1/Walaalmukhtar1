@@ -8,8 +8,7 @@
 [![GitHub Wala](https://img.shields.io/github/followers/Walaalmukhtar1?label=follow&style=social)](https://github.com/Walaalmukhtar1)
 
 
-### <img src="![image](https://github.com/Walaalmukhtar1/Walaalmukhtar1/assets/113856543/ab017036-d638-425b-874a-cbb94e35561a)
-" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 Wala Almukhtar = {
