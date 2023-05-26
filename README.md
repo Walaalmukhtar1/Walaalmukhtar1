@@ -13,8 +13,8 @@
 ```javascript
 Wala Almukhtar = {
   Gender: Female
-  Skills: [Hardworker, Quicklearner, Leading-skills, Communication-skills]
-  Member: [CCSIT-Club ~ present, Programming-Club: Sep 2022 ~ Mar 2023],
+  Skills: [Hardworker, Quicklearner, Leading skills, Communication skills]
+  Member: [CCSIT Club ~ present, Programming Club: Sep 2022 ~ Mar 2023],
   Programming Languages: [Python, C],
  challenge: "Finish CS50 Course"
 }
