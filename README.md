@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter: SweetsBorn](https://img.shields.io/twitter/follow/SweetsBorn?style=social)](https://twitter.com/SweetsBorn)
-[![Linkedin: Wala Almukhtar](https://img.shields.io/badge/-Wala-Almukhtar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wala=Almukhtar/)](https://www.linkedin.com/in/wala almukhtar-57a170219/)
+[![Linkedin: Wala Almukhtar](https://img.shields.io/badge/-Wala=Almukhtar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wala=Almukhtar/)](https://www.linkedin.com/in/wala-almukhtar-57a170219/)
 [![GitHub Wala](https://img.shields.io/github/followers/Walaalmukhtar1?label=follow&style=social)](https://github.com/Walaalmukhtar1)
 
 
