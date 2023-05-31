@@ -1,11 +1,11 @@
 <h2> Hi, I'm Wala Almukhtar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="![image](https://github.com/Walaalmukhtar1/Walaalmukhtar1/assets/113856543/bbfa5688-d32a-4d5e-973e-4571b28ee961)
+<img align='right' src="https://github.com/Walaalmukhtar1/Walaalmukhtar1/assets/113856543/bbfa5688-d32a-4d5e-973e-4571b28ee961
 " width="230">
 <p><em> General computer scinece student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Member in <a href="https://twitter.com/ccsit_club">CCSIT Club</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: SweetsBorn](https://img.shields.io/twitter/follow/SweetsBorn?style=social)](https://twitter.com/SweetsBorn)
-[![Linkedin: Wala Almukhtar](https://img.shields.io/badge/-Wala-Almukhtar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wala-Almukhtar/)](https://www.linkedin.com/in/wala-almukhtar-57a170219/)
+[![Linkedin: Wala Almukhtar](https://img.shields.io/badge/-Wala Almukhtar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wala Almukhtar/)](https://www.linkedin.com/in/wala-almukhtar-57a170219/)
 [![GitHub Wala](https://img.shields.io/github/followers/Walaalmukhtar1?label=follow&style=social)](https://github.com/Walaalmukhtar1)
 
 
