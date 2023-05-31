@@ -1,5 +1,5 @@
 <h2> Hi, I'm Wala Almukhtar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' 
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSuldana&psig=AOvVaw0ItrcEL2L35hmtxzdz1ozu&ust=1685647886840000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODl8u6loP8CFQAAAAAdAAAAABA9" width="230">
 <p><em> General computer scinece student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Member in <a href="https://twitter.com/ccsit_club">CCSIT Club</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
