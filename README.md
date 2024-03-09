@@ -2,7 +2,7 @@
 <img align='right' src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="230">
 <p><em> General computer science student at <a href="https://www.iau.edu.sa/en">Imam Abdulrahman Bin Faisal University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Member in <a href="https://twitter.com/ccsit_club">CCSIT Club </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em> To contact me: Walaa.Almukhtar1@gmail.com </em></p>
+
 [![Twitter: SweetsBorn](https://img.shields.io/twitter/follow/SweetsBorn?style=social)](https://twitter.com/SweetsBorn)
 [![Linkedin: Wala Almukhtar](https://img.shields.io/badge/-Wala=Almukhtar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wala=Almukhtar/)](https://www.linkedin.com/in/wala-almukhtar-57a170219/)
 [![GitHub Wala](https://img.shields.io/github/followers/Walaalmukhtar1?label=follow&style=social)](https://github.com/Walaalmukhtar1)
