@@ -15,7 +15,7 @@ Wala Almukhtar = {
   Gender: Female
   Skills: [Hardworker, Quick learner, leadership skills, Communication skills]
   Member: [CCSIT Club ~ present, GDSC Club: Sep 2023 ~ Dec 2023, Programming Club: Sep 2022 ~ Mar 2023],
-  Languages: [Python, C++, HTML, CSS, Java]
+  Languages: [Python, C++, Java, HTML, CSS]
 }
 ```
 
