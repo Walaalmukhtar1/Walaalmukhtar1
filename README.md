@@ -17,9 +17,11 @@
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git#gh-light-mode-only"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=Python#gh-light-mode-only"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+  <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java#gh-light-mode-only">
   <img alt="C++" src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=C++a#gh-light-mode-only">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5#gh-light-mode-only">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=Tailwind#gh-light-mode-only">
+  
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6#gh-light-mode-only">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma#gh-light-mode-only">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-light-mode-only"/>
