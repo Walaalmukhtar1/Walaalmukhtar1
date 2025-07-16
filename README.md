@@ -7,7 +7,7 @@
 <pre>
 {
   "name": "Wala Almukhtar",
-  "status": "General CS student @ Imam Abdulrahman Bin Faisal University",
+  "status": "Junior Artificial Intelligence student @ Imam Abdulrahman Bin Faisal University",
   "currentlyLearning": [
     "Front-end development",
     "Arduino",
