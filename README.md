@@ -9,9 +9,8 @@
   "name": "Wala Almukhtar",
   "status": "Junior Artificial Intelligence student @ Imam Abdulrahman Bin Faisal University",
   "currentlyLearning": [
-    "Front-end development",
-    "Arduino",
-    "Problem-solving (Codeforces, LeetCode)"
+    "Full-Stack development",
+    "Machine Learning",
   ],
   "goals": [
     "Explore different CS fields",
@@ -19,7 +18,7 @@
     "Boost productivity"
   ],
   "stack": [
-    "Git", "Python", "Java", "C++", 
+    "Git", "Python", "Java", "C++", "SQL", 
     "HTML", "CSS", "JavaScript", "Tailwind", "Figma",
     "Visual Studio Code"
   ]
