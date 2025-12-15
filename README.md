@@ -18,7 +18,7 @@
     "Boost productivity"
   ],
   "stack": [
-    "Git", "Python", "Java", "C++", "SQL", 
+    "Git", "Python", "Java", "C++", "SQL", "Linux", 
     "HTML", "CSS", "JavaScript", "Tailwind", "Figma",
     "Visual Studio Code"
   ]
