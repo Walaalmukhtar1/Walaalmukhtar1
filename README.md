@@ -26,9 +26,6 @@
 </pre>
 
 <p align="center">
-  <a href="https://twitter.com/SweetsBorn">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/wala-almukhtar-57a170219/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
