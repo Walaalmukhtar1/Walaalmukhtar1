@@ -7,7 +7,7 @@
 <pre>
 {
   "name": "Wala Almukhtar",
-  "status": "Junior Artificial Intelligence student @ Imam Abdulrahman Bin Faisal University",
+  "status": "Senior Artificial Intelligence student @ Imam Abdulrahman Bin Faisal University",
   "currentlyLearning": [
     "Full-Stack development",
     "Machine Learning",
